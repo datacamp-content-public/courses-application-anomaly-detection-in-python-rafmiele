@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## Global and local outliers
 
 ```yaml
 type: VideoExercise
