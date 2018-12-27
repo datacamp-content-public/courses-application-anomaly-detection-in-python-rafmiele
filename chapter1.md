@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Global and local outliers
+## Global and local outliers (version 1)
 
 ```yaml
 type: VideoExercise
@@ -53,3 +53,16 @@ xp: 50
 
 `@projector_key`
 8ea34aee42f724715fb4e127061371c3
+
+---
+
+## Global and Local Outlier (version 2 with code as requested)
+
+```yaml
+type: VideoExercise
+key: a0ce175a59
+xp: 50
+```
+
+`@projector_key`
+7f271ff2377d276f54a24c31cffa28a7
